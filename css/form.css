@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.form-page{
+    background-color: aqua;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.form-wrapper{
+    text-align: left;
+    background-color: darkblue;
+    padding: 20px;
+    margin: 20px;
+}
+.form-page #form-desc{
+    font-style: italic;
+
+}
+button{
+    background-color: green;
+    color: white;
+    width: 250px;
+    margin: 10px 0 0 0;
+    border: none;
+
+}
